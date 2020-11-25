@@ -1,22 +1,29 @@
 package com.testcases;
 
+import java.sql.Driver;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.Select;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Datepicker {
+public class Dropdownlist {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver=new ChromeDriver();
-		driver.get("https://www.redbus.in/");
-		//driver.findElement(By.xpath("//*[@id='onward_cal']")).click();
-		driver.findElement(By.xpath("//*[@id='search']/div/div[3]/span")).click();
-		driver.findElement(By.xpath("//*[@id=\"rb-calendar_onward_cal\"]/table/tbody/tr[7]/td[4]")).click();
+		driver.get("http://output.jsbin.com/osebed/2");
+		WebElement fruits = driver.findElement(By.id("fruits"));
+		Select obj=new Select(fruits);
+		obj.selectByValue("orange");
+		obj.selectByVisibleText("Banana");
+		
+		
 	}
 
 }
