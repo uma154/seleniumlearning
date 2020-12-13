@@ -1,0 +1,29 @@
+package com.testcases;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
+
+public class Simplemobile {
+
+	public static void main(String[] args) throws InterruptedException {
+		// TODO Auto-generated method stub
+
+		WebDriverManager.chromedriver().setup();
+		WebDriver driver=new ChromeDriver();
+		driver.get("https://www.totalwireless.com/");
+		//driver.findElement(By.id("button2")).click();
+		/*driver.findElement(By.id("ae_enabled_site")).click();
+		driver.findElement(By.xpath("//*[@id=\"app-body\"]")).sendKeys("cnukota@gmail.com");
+		//Thread.sleep(3000);
+		driver.findElement(By.id("lnk_tfhome_myaccount")).click();
+		driver.findElement(By.id("createac-device")).sendKeys("7868567975");
+		driver.findElement(By.id("recaptcha-anchor-label")).click();*/
+		
+		
+
+	}
+
+}

@@ -1,0 +1,28 @@
+package com.testCases;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Test;
+
+import com.baseClasses.Library;
+import com.pages.C2taLogin;
+
+public class C2taRegistrationTest extends Library{
+	@BeforeTest
+	public void stratUp() {
+		browserSetUp();
+		logger.info("**Browser has been launched****");	
+	}
+	@Test
+	public void login() {
+		C2taLogin lpage=new C2taLogin(driver);
+		lpage.loginToApp_username(properties.getProperty("username"));
+		lpage.loginToApp_password(properties.getProperty("password"));
+		lpage.loginToApp_loginbutton();
+		logger.info("**Login Successful****");
+		
+		
+		
+	}
+}

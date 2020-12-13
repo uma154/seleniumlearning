@@ -1,0 +1,7 @@
+browser=chrome
+url=https://www.orangehrm.com/
+
+LoginCredentials
+===================
+username=sravan
+password=sam

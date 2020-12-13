@@ -1,0 +1,7 @@
+browser=chrome
+url=https://c2ta.co.in/login/
+
+LoginCredentials
+===================
+username=Admin
+password=admin123

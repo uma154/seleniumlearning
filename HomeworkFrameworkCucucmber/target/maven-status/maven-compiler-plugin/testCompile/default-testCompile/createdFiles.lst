@@ -1,0 +1,6 @@
+com\testCases\C2taRegistrationTest.class
+com\stepDefinitions\LoginSteps.class
+com\testCases\C2taLoginTest.class
+com\testRunners\TestRunner.class
+com\pages\C2taRegistration.class
+com\pages\C2taLogin.class

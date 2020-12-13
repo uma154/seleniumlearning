@@ -1,0 +1,396 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Dec 07 13:31:12 EST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.baseClasses.Library category">com.baseClasses.Library</td>
+<td>Library.java:45</td>
+<td title="Message">**Starting with Browser Set Up****</td>
+</tr>
+
+<tr>
+<td>8904</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.baseClasses.Library category">com.baseClasses.Library</td>
+<td>Library.java:84</td>
+<td title="Message">Launched the cucumber Application</td>
+</tr>
+
+<tr>
+<td>8904</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.baseClasses.Library category">com.baseClasses.Library</td>
+<td>LoginTest.java:17</td>
+<td title="Message">**Browser has been launched****</td>
+</tr>
+
+<tr>
+<td>9647</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.baseClasses.Library category">com.baseClasses.Library</td>
+<td>LoginTest.java:25</td>
+<td title="Message">**Login Successful****</td>
+</tr>
+
+<tr>
+<td>10749</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.baseClasses.Library category">com.baseClasses.Library</td>
+<td>LoginTest.java:34</td>
+<td title="Message">**Took Screenshot****</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Dec 07 13:58:26 EST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.baseClasses.Library category">com.baseClasses.Library</td>
+<td>Library.java:45</td>
+<td title="Message">**Starting with Browser Set Up****</td>
+</tr>
+
+<tr>
+<td>7631</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.baseClasses.Library category">com.baseClasses.Library</td>
+<td>Library.java:84</td>
+<td title="Message">Launched the cucumber Application</td>
+</tr>
+
+<tr>
+<td>7632</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.baseClasses.Library category">com.baseClasses.Library</td>
+<td>OrangehrmLoginTest.java:15</td>
+<td title="Message">**Browser has been launched****</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Dec 07 14:00:00 EST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.baseClasses.Library category">com.baseClasses.Library</td>
+<td>Library.java:45</td>
+<td title="Message">**Starting with Browser Set Up****</td>
+</tr>
+
+<tr>
+<td>8085</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.baseClasses.Library category">com.baseClasses.Library</td>
+<td>Library.java:84</td>
+<td title="Message">Launched the cucumber Application</td>
+</tr>
+
+<tr>
+<td>8085</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.baseClasses.Library category">com.baseClasses.Library</td>
+<td>OrangehrmLoginTest.java:15</td>
+<td title="Message">**Browser has been launched****</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Dec 07 14:01:49 EST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.baseClasses.Library category">com.baseClasses.Library</td>
+<td>Library.java:45</td>
+<td title="Message">**Starting with Browser Set Up****</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Dec 07 14:04:29 EST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.baseClasses.Library category">com.baseClasses.Library</td>
+<td>Library.java:45</td>
+<td title="Message">**Starting with Browser Set Up****</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Dec 07 14:16:29 EST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.baseClasses.Library category">com.baseClasses.Library</td>
+<td>Library.java:45</td>
+<td title="Message">**Starting with Browser Set Up****</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Dec 07 14:29:52 EST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.baseClasses.Library category">com.baseClasses.Library</td>
+<td>Library.java:45</td>
+<td title="Message">**Starting with Browser Set Up****</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Dec 07 14:33:08 EST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.baseClasses.Library category">com.baseClasses.Library</td>
+<td>Library.java:45</td>
+<td title="Message">**Starting with Browser Set Up****</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Mon Dec 07 14:33:52 EST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.baseClasses.Library category">com.baseClasses.Library</td>
+<td>Library.java:45</td>
+<td title="Message">**Starting with Browser Set Up****</td>
+</tr>
+
+<tr>
+<td>7552</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.baseClasses.Library category">com.baseClasses.Library</td>
+<td>Library.java:84</td>
+<td title="Message">Launched the cucumber Application</td>
+</tr>
+
+<tr>
+<td>7552</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.baseClasses.Library category">com.baseClasses.Library</td>
+<td>OrangehrmLoginTest.java:15</td>
+<td title="Message">**Browser has been launched****</td>
+</tr>
+
+<tr>
+<td>8710</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.baseClasses.Library category">com.baseClasses.Library</td>
+<td>OrangehrmLoginTest.java:24</td>
+<td title="Message">**Login Successful****</td>
+</tr>
